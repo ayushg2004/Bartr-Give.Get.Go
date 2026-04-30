@@ -1,5 +1,7 @@
 # Bartr- Give.Get.Go: An Interactive Platform
 
+**COPYRIGHT**
+
 Bartr is a **web‑based goods exchanging platform** designed to
 bridge the geographical gap between seller and buyer.
 
